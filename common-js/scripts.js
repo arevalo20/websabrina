@@ -68,8 +68,8 @@ function enableRadialProgress() {
 			duration: 1400,
 			text: {},
 			from: {
-				color: '#aaa',
-				width: 1
+				color: '#ff0101',
+				width: 2
 			},
 			to: {
 				color: '#ff0101',
